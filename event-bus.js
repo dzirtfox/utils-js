@@ -55,7 +55,7 @@
             this.callbacks = [];
         }
     };
-
+    
     window.EventBusManager = (function () {
         var modules = [];
         var manager = {};
